@@ -21,6 +21,8 @@ Documentation is available to view on [Github Page](https://astute-systems.githu
 
 ![Version](https://Astute-Systems.github.io/ToolX/version.svg)
 
+Is Astute-Systems diagnostics and debug tool (build in MediaX) for Generic Vehicle Architecture (GVA) and Generic Soldier Architecture (GSA) systems. Libraries conform to DEF-STAN 00-082 for real time video streaming.
+
 ToolX is a GUI tool for developer to use whiles developing their MediaX enabled applications.
 
 Documentation is available to view on [Github Page](https://astute-systems.github.io/ToolX)
