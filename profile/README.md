@@ -19,6 +19,8 @@ Documentation is available to view on [Github Page](https://astute-systems.githu
 
 ## [ToolX](https://github.com/Astute-Systems/ToolX)
 
+![Version](https://Astute-Systems.github.io/ToolX/version.svg)
+
 ToolX is a GUI tool for developer to use whiles developing their MediaX enabled applications.
 
 ## [VivoeX](https://github.com/Astute-Systems/VivoeX)
