@@ -33,12 +33,12 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![Version](https://Astute-Systems.github.io/VivoeX/version.svg)
 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Kent-Modular-Electronics_miv-firmware&metric=security_rating&token=36ad5a1ddf4ecf4d951ef3aa320699da854b5543)](https://sonarcloud.io/summary/new_code?id=Kent-Modular-Electronics_miv-firmware)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Kent-Modular-Electronics_miv-firmware&metric=sqale_rating&token=36ad5a1ddf4ecf4d951ef3aa320699da854b5543)](https://sonarcloud.io/summary/new_code?id=Kent-Modular-Electronics_miv-firmware)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Kent-Modular-Electronics_miv-firmware&metric=reliability_rating&token=36ad5a1ddf4ecf4d951ef3aa320699da854b5543)](https://sonarcloud.io/summary/new_code?id=Kent-Modular-Electronics_miv-firmware)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Kent-Modular-Electronics_miv-firmware&metric=code_smells&token=36ad5a1ddf4ecf4d951ef3aa320699da854b5543)](https://sonarcloud.io/summary/new_code?id=Kent-Modular-Electronics_miv-firmware)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Kent-Modular-Electronics_miv-firmware&metric=coverage&token=36ad5a1ddf4ecf4d951ef3aa320699da854b5543)](https://sonarcloud.io/summary/new_code?id=Kent-Modular-Electronics_miv-firmware)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Kent-Modular-Electronics_miv-firmware&metric=alert_status&token=36ad5a1ddf4ecf4d951ef3aa320699da854b5543)](https://sonarcloud.io/summary/new_code?id=Kent-Modular-Electronics_miv-firmware)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=security_rating&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=sqale_rating&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=reliability_rating&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=vulnerabilities&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=code_smells&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=coverage&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
 
 The project includes an reference implementation of the GVA (Generic Vehicle Architecture) Human Machine Interface (HMI) to DEF STAN 23-009. This is meant as a designed for testing different live video sources and working with streaming protocols and does not implement functionality defined in the GVA Land Data Model (LDM). Its primarily used to demonstrate various video streaming pipelines and control mechanisms for real time video processing and situational awareness.
 
