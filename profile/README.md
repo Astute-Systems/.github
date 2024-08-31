@@ -45,4 +45,4 @@ The project includes an reference implementation of the GVA (Generic Vehicle Arc
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/VivoeX)
 
 
-![GVA HMI](https://github.com/Astute-Systems/VivoeX/raw/main/images/screen/ScreenshotSaFront.png)
+![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
