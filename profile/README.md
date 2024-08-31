@@ -27,7 +27,7 @@ ToolX is a GUI tool for developer to use whiles developing their MediaX enabled 
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/ToolX)
 
-![ToolX](https://github.com/Astute-Systems/ToolX/blob/main/images/ToolX_Dark.png)
+![ToolX](https://astute-systems.github.io/ToolX/ToolX_Dark.png)
 
 ## [VivoeX](https://github.com/Astute-Systems/VivoeX)
 
