@@ -17,7 +17,7 @@ This library (compliant to ISO/IEC 14882 C++17) implements [RFC 4421](https://da
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/MediaX).
 
-## [ToolX](https://github.com/Astute-Systems/ToolX)
+## [ToolX](https://github.com/Astute-Systems/ToolX) (Private)
 
 ![Version](https://Astute-Systems.github.io/ToolX/version.svg)
 
@@ -29,7 +29,7 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![ToolX](https://astute-systems.github.io/ToolX/ToolX_Dark.png)
 
-## [VivoeX](https://github.com/Astute-Systems/VivoeX)
+## [VivoeX](https://github.com/Astute-Systems/VivoeX) (Private)
 
 ![Version](https://Astute-Systems.github.io/VivoeX/version.svg)
 
