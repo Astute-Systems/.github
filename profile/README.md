@@ -5,7 +5,7 @@ Below is the public status board for our repos. Repos maked with :lock: are priv
 ## [Examples](https://github.com/Astute-Systems/Examples)
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 [![Ubuntu 24.04 x64](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-24.04-amd64.yaml/badge.svg)](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-24.04-amd64.yaml)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
+![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
 
 Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
 
@@ -13,7 +13,7 @@ Some [examples](https://github.com/Astute-Systems/Examples) for how to use Media
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
+![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
 ![Version](https://Astute-Systems.github.io/MediaX/version.svg)
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_MediaX&metric=security_rating&token=5c629e538c08ce4ac4d5d7a4cfc6e7e682c680f2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_MediaX)
@@ -31,7 +31,7 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
+![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
 ![Version](https://Astute-Systems.github.io/ToolX/version.svg)
 
 Is Astute-Systems diagnostics and debug tool (build in MediaX) for Generic Vehicle Architecture (GVA) and Generic Soldier Architecture (GSA) systems. Libraries conform to DEF-STAN 00-082 for real time video streaming.
@@ -48,7 +48,7 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
 ![CentOS 8 x64](https://img.shields.io/badge/CentOS%208%20x64-supported-yellow)
 ![Msys2 x64](https://img.shields.io/badge/MSYS2%20Windows%20x64-supported-yellow)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
+![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
 ![Version](https://Astute-Systems.github.io/VivoeX/version.svg)
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=security_rating&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
