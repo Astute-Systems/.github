@@ -62,6 +62,8 @@ The project includes an reference implementation of the GVA (Generic Vehicle Arc
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/VivoeX)
 
+![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
+
 # [LdmX](https://github.com/Astute-Systems/LdmX)
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
@@ -72,7 +74,3 @@ This is an implementation of the GVA Land Data Model and is only available on a 
 # [SystemX](https://github.com/Astute-Systems/SystemX)
 
 The embedded OS for deployment. Signed and trusted SystemsX includes everything you need for a minimal secure, trusted operating system on which to deploy your application. Includes communications fabrics to enable massive scalable architectures and seemless interoperation with military systems for land, sea and air.
-
-
-
-![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
