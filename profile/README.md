@@ -64,13 +64,13 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
 
-# [LdmX](https://github.com/Astute-Systems/LdmX)
+## [LdmX](https://github.com/Astute-Systems/LdmX)
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
 
 This is an implementation of the GVA Land Data Model and is only available on a commercial basis. Please reach out for more details.
 
-# [SystemX](https://github.com/Astute-Systems/SystemX)
+## [SystemX](https://github.com/Astute-Systems/SystemX)
 
-The embedded OS for deployment. Signed and trusted SystemsX includes everything you need for a minimal secure, trusted operating system on which to deploy your application. Includes communications fabrics to enable massive scalable architectures and seemless interoperation with military systems for land, sea and air.
+The embedded OS for deployment. Signed and trusted SystemsX includes everything you need for a minimal secure, trusted operating system on which to deploy your application. Includes communications fabrics to enable massive scalable architectures and seemless interoperation with military systems for land, sea and air. Fully tested on the NVIDIA Jetson Orin AGX see [GXA-1](https://astutesys.com/gxa-1/).
