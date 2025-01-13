@@ -1,6 +1,6 @@
 # Astute Systems repos
 
-Below is the public status board for our repos
+Below is the public status board for our repos. Repos maked with :lock: are private with public documentation.
 
 ## [Examples](https://github.com/Astute-Systems/Examples)
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
@@ -27,7 +27,7 @@ This library (compliant to ISO/IEC 14882 C++17) implements [RFC 4421](https://da
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/MediaX).
 
-## [ToolX](https://github.com/Astute-Systems/ToolX) (Private)
+## [ToolX](https://github.com/Astute-Systems/ToolX) :lock:
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
@@ -42,7 +42,7 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![ToolX](https://astute-systems.github.io/ToolX/ToolX_Dark.png)
 
-## [VivoeX](https://github.com/Astute-Systems/VivoeX) (Private)
+## [VivoeX](https://github.com/Astute-Systems/VivoeX) :lock:
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
@@ -64,13 +64,13 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
 
-## [LdmX](https://github.com/Astute-Systems/LdmX)
+## [LdmX](https://github.com/Astute-Systems/LdmX) :lock:
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
 
 This is an implementation of the GVA Land Data Model and is only available on a commercial basis. Please reach out for more details.
 
-## [SystemX](https://github.com/Astute-Systems/SystemX)
+## [SystemX](https://github.com/Astute-Systems/SystemX) :lock:
 
 The embedded OS for deployment. Signed and trusted SystemsX includes everything you need for a minimal secure, trusted operating system on which to deploy your application. Includes communications fabrics to enable massive scalable architectures and seemless interoperation with military systems for land, sea and air. Fully tested on the NVIDIA Jetson Orin AGX see [GXA-1](https://astutesys.com/gxa-1/).
