@@ -46,8 +46,8 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
-![CentOS 8](https://img.shields.io/badge/CentOS%208-supported-yellow)
-![Msys2](https://img.shields.io/badge/MSYS2%20Windows-supported-yellow)
+![CentOS 8 x64](https://img.shields.io/badge/CentOS%208%20x64-supported-yellow)
+![Msys2 x64](https://img.shields.io/badge/MSYS2%20Windows%20x64-supported-yellow)
 ![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
 ![Version](https://Astute-Systems.github.io/VivoeX/version.svg)
 
