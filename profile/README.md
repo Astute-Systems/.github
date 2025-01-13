@@ -3,18 +3,16 @@
 Below is the public status board for our repos
 
 ## [Examples](https://github.com/Astute-Systems/Examples)
-![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-supported-yellow)
-![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-supported-yellow)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
-
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 [![Ubuntu 24.04 Intel](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-24.04-amd64.yaml/badge.svg)](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-24.04-amd64.yaml)
+![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
 
 Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
 
 ## [MediaX](https://github.com/Astute-Systems/MediaX)
 
-![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-supported-yellow)
-![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-supported-yellow)
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
+![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
 ![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
 ![Version](https://Astute-Systems.github.io/MediaX/version.svg)
 
@@ -31,8 +29,8 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ## [ToolX](https://github.com/Astute-Systems/ToolX) (Private)
 
-![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-supported-yellow)
-![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-supported-yellow)
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
+![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
 ![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
 ![Version](https://Astute-Systems.github.io/ToolX/version.svg)
 
@@ -46,8 +44,8 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ## [VivoeX](https://github.com/Astute-Systems/VivoeX) (Private)
 
-![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-supported-yellow)
-![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-supported-yellow)
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
+![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
 ![CentOS 8](https://img.shields.io/badge/CentOS%208-supported-yellow)
 ![Msys2](https://img.shields.io/badge/MSYS2%20Windows-supported-yellow)
 ![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
