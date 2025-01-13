@@ -4,7 +4,7 @@ Below is the public status board for our repos
 
 ## [Examples](https://github.com/Astute-Systems/Examples)
 
-Some examples for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
+Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
 
 ## [MediaX](https://github.com/Astute-Systems/MediaX)
 
