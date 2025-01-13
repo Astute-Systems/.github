@@ -7,6 +7,8 @@ Below is the public status board for our repos
 ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-supported-yellow)
 ![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012-supported-yellow)
 
+[![Ubuntu 24.04 Intel](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-24.04-amd64.yaml/badge.svg)](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-24.04-amd64.yaml)
+
 Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
 
 ## [MediaX](https://github.com/Astute-Systems/MediaX)
