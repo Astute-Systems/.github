@@ -64,6 +64,23 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
 
+## [CotX ATAK](https://github.com/Astute-Systems/CotX) :lock:
+
+![Linux](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
+![Windows](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
+
+Our TAK library stands out with its robust and modular architecture, allowing you to extend its capabilities effortlessly. Whether you’re looking to integrate custom data processors or add new data sources, our library provides the tools you need to expand and tailor it to your specific requirements.
+
+Seamless Data Ingestion from Multiple Sources Experience seamless data ingestion like never before. Our TAK library supports a wide array of data sources, ensuring you have the most comprehensive situational awareness:
+- AIS (Automatic Identification System): Track maritime vessels with precision.
+- ADS-B (Automatic Dependent Surveillance-Broadcast): Monitor aircraft movements in real-time.
+- OpenDrone ID: Keep an eye on drone activities and enhance your airspace management.
+- NMEA (National Marine Electronics Association): Integrate marine navigation and sensor data.
+- Radar Tracks from Cambridge Pixel: Harness the power of high-fidelity radar data for superior tracking and situational awareness.
+- Various Online Sources: Leverage the wealth of open source intelligence data available online to enrich your applications.
+
+Documentation is available to view on [Github Pages](https://astute-systems.github.io/CotX)
+
 ## [LdmX](https://github.com/Astute-Systems/LdmX) :lock:
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
