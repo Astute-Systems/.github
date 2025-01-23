@@ -79,7 +79,7 @@ Seamless Data Ingestion from Multiple Sources Experience seamless data ingestion
 - Radar Tracks from Cambridge Pixel: Harness the power of high-fidelity radar data for superior tracking and situational awareness.
 - Various Online Sources: Leverage the wealth of open source intelligence data available online to enrich your applications.
 
-Documentation is available to view on [Github Pages](https://astute-systems.github.io/cotd/CotX)
+Documentation is available to view on [Github Pages](https://astute-systems.github.io/CotX/cotd)
 
 ## [LdmX](https://github.com/Astute-Systems/LdmX) :lock:
 
