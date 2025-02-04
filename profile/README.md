@@ -27,6 +27,8 @@ This library (compliant to ISO/IEC 14882 C++17) implements [RFC 4421](https://da
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/MediaX).
 
+![Version](images/mediax.png)
+
 ## [ToolX](https://github.com/Astute-Systems/ToolX) :lock:
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
@@ -64,6 +66,8 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
 
+![Version](images/vivoex.png)
+
 ## [CotX ATAK](https://github.com/Astute-Systems/CotX) :lock:
 
 ![Linux](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
@@ -81,12 +85,20 @@ Seamless Data Ingestion from Multiple Sources Experience seamless data ingestion
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/CotX/cotd)
 
+![Version](images/tak.png)
+
 ## [LdmX](https://github.com/Astute-Systems/LdmX) :lock:
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
 
 This is an implementation of the GVA Land Data Model and is only available on a commercial basis. Please reach out for more details.
+
+## [bit](https://github.com/Astute-Systems/bit) :lock:
+
+Documentation is available to view on [Github Pages](https://astute-systems.github.io/bit)
+
+![Version](images/bit.png)
 
 ## [SystemX](https://github.com/Astute-Systems/SystemX) :lock:
 
