@@ -10,6 +10,7 @@ Below is the public status board for our repos. Repos maked with :lock: are priv
 Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
 
 ## [MediaX](https://github.com/Astute-Systems/MediaX)
+![Version](images/mediax.png) 
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
@@ -27,9 +28,10 @@ This library (compliant to ISO/IEC 14882 C++17) implements [RFC 4421](https://da
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/MediaX).
 
-![Version](images/mediax.png)
+
 
 ## [ToolX](https://github.com/Astute-Systems/ToolX) :lock:
+![ToolX](https://astute-systems.github.io/ToolX/ToolX_Dark.png)
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
@@ -42,9 +44,9 @@ ToolX is a GUI tool for developer to use whiles developing their MediaX enabled 
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/ToolX)
 
-![ToolX](https://astute-systems.github.io/ToolX/ToolX_Dark.png)
 
 ## [VivoeX](https://github.com/Astute-Systems/VivoeX) :lock:
+![Version](images/vivoex.png)
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
@@ -66,9 +68,9 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 
 ![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
 
-![Version](images/vivoex.png)
 
 ## [CotX ATAK](https://github.com/Astute-Systems/CotX) :lock:
+![Version](images/tak.png)
 
 ![Linux](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
 ![Windows](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
@@ -85,7 +87,6 @@ Seamless Data Ingestion from Multiple Sources Experience seamless data ingestion
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/CotX/cotd)
 
-![Version](images/tak.png)
 
 ## [LdmX](https://github.com/Astute-Systems/LdmX) :lock:
 
@@ -95,10 +96,10 @@ Documentation is available to view on [Github Pages](https://astute-systems.gith
 This is an implementation of the GVA Land Data Model and is only available on a commercial basis. Please reach out for more details.
 
 ## [bit](https://github.com/Astute-Systems/bit) :lock:
+![Version](images/bit.png)
 
 Documentation is available to view on [Github Pages](https://astute-systems.github.io/bit)
 
-![Version](images/bit.png)
 
 ## [SystemX](https://github.com/Astute-Systems/SystemX) :lock:
 
