@@ -6,6 +6,7 @@ Below is the public status board for our repos. Repos maked with :lock: are priv
 [![Doxygen](https://github.com/Astute-Systems/Examples/actions/workflows/build-doxygen.yaml/badge.svg)](https://github.com/Astute-Systems/Examples/actions/workflows/build-doxygen.yaml)
 [![Ubuntu 22.04 Intel](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-22.04-amd64.yaml/badge.svg)](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-22.04-amd64.yaml)
 ![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
+![Version](https://camo.githubusercontent.com/f57d6c5c6db366bbc573bf149dc3ae4fe59a9ede83f5f9eb37bf6275a5dca308/68747470733a2f2f6173747574652d73797374656d732e6769746875622e696f2f4578616d706c65732f76657273696f6e2e737667)
 
 Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
 
