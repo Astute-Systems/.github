@@ -10,6 +10,12 @@ Below is the public status board for our repos. Repos maked with :lock: are priv
 
 Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
 
+## [Board Support Package GXA-1](https://github.com/Astute-Systems/bsp)
+[![Ubuntu 22.04 Intel BSP](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-22.04-amd64-bsp.yaml/badge.svg)](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-22.04-amd64-bsp.yaml)
+[![Ubuntu 24.04 Intel BSP](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-24.04-amd64-bsp.yaml/badge.svg)](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-24.04-amd64-bsp.yaml)
+
+The Jetpack and Linux4Tegra board support package for the Jetson Orin AGX [GXA-1](https://astutesys.com/gxa-1/).
+
 ## [MediaX](https://github.com/Astute-Systems/MediaX)
 
 ![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
