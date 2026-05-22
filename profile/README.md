@@ -1,117 +1,155 @@
-# Astute Systems repos
+# Astute Systems
 
-Below is the public status board for our repos. Repos maked with :lock: are private with public documentation.
+Astute Systems builds mission-focused software products for defence and autonomy platforms.
 
-## [Examples](https://github.com/Astute-Systems/Examples)
-[![Doxygen](https://github.com/Astute-Systems/Examples/actions/workflows/build-doxygen.yaml/badge.svg)](https://github.com/Astute-Systems/Examples/actions/workflows/build-doxygen.yaml)
-[![Ubuntu 22.04 Intel](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-22.04-amd64.yaml/badge.svg)](https://github.com/Astute-Systems/Examples/actions/workflows/build-ubuntu-22.04-amd64.yaml)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
-![Version](https://camo.githubusercontent.com/f57d6c5c6db366bbc573bf149dc3ae4fe59a9ede83f5f9eb37bf6275a5dca308/68747470733a2f2f6173747574652d73797374656d732e6769746875622e696f2f4578616d706c65732f76657273696f6e2e737667)
+Our GitHub organization includes both open and commercial projects. Where repositories are private, we link to public documentation and product pages.
 
-Some [examples](https://github.com/Astute-Systems/Examples) for how to use MediaX and the GXA-1 mission computer. Open and free to use in your application/s.
+## Company Focus
 
-## [Board Support Package GXA-1](https://github.com/Astute-Systems/bsp)
-[![Ubuntu 22.04 Intel BSP](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-22.04-amd64-bsp.yaml/badge.svg)](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-22.04-amd64-bsp.yaml)
-[![Ubuntu 24.04 Intel BSP](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-24.04-amd64-bsp.yaml/badge.svg)](https://github.com/Astute-Systems/bsp/actions/workflows/build-ubuntu-24.04-amd64-bsp.yaml)
+- DDS middleware stack and tooling
+- GVA-aligned Land Data Model (LDM) services and integrations
+- Operator HMI products for vehicle and platform systems
+- Embedded and edge deployment tooling
 
-The Jetpack and Linux4Tegra board support package for the Jetson Orin AGX [GXA-1](https://astutesys.com/gxa-1/).
+## Featured Platforms And Products
 
-## [MediaX](https://github.com/Astute-Systems/MediaX)
+### AstuteDDS
 
-![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
-![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
-![Version](https://Astute-Systems.github.io/MediaX/version.svg)
+Low-latency, production-ready DDS stack for distributed real-time systems.
 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_MediaX&metric=security_rating&token=5c629e538c08ce4ac4d5d7a4cfc6e7e682c680f2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_MediaX)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_MediaX&metric=sqale_rating&token=5c629e538c08ce4ac4d5d7a4cfc6e7e682c680f2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_MediaX)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_MediaX&metric=reliability_rating&token=5c629e538c08ce4ac4d5d7a4cfc6e7e682c680f2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_MediaX)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_MediaX&metric=vulnerabilities&token=5c629e538c08ce4ac4d5d7a4cfc6e7e682c680f2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_MediaX)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_MediaX&metric=code_smells&token=5c629e538c08ce4ac4d5d7a4cfc6e7e682c680f2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_MediaX)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_MediaX&metric=coverage&token=5c629e538c08ce4ac4d5d7a4cfc6e7e682c680f2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_MediaX)
+- Documentation: https://astutesys.com/docs/astutedds/
+- Product pages: https://astutesys.com/dds
 
-![Version](images/mediax.png) 
+### LDM (Land Data Model)
 
-This library (compliant to ISO/IEC 14882 C++17) implements [RFC 4421](https://datatracker.ietf.org/doc/html/rfc4421) RTP (Real Time Protocol) Payload Format for Uncompressed Video and [RFC 3984](https://datatracker.ietf.org/doc/html/rfc3984) for H.264 video as mandated by the UK MoD as part of DEF STAN 00-082 (VIVOE) uncompressed RTP video streaming protocol for real time video. If you are not familiar with the Generic Vehicle Architecture (DEF STAN 00-23) and VIVOE then you can read more [here](https://en.wikipedia.org/wiki/Generic_Vehicle_Architecture).
+Core data services and interfaces used across our software portfolio, including mission integration and platform services.
 
-Documentation is available to view on [Github Pages](https://astute-systems.github.io/MediaX).
+- Product pages: https://astutesys.com/
+- Documentation: https://astutesys.com/docs/ldm/
+
+### ATLAS HMI
+
+<img src="https://astutesys.com/media/1778618584787-ATLAS_Circle_Transperent_Small.webp" alt="ATLAS" align="right" width="110">
+
+Human-machine interface product for mission and vehicle operations, designed for real-world operator workflows.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1772106038585-SYS.png" alt="ATLAS SYS" width="45%">
+  <img src="https://astutesys.com/media/1772106020498-SA_SingleWithStrip.png" alt="ATLAS SA" width="45%">
+</p>
+
+- Product pages: https://astutesys.com/atlas
+- Documentation: https://astutesys.com/docs/ldm/hmi/
+
+### TALOS BMS
+
+<img src="https://astutesys.com/media/1778062809672-TALOS_Circle_Transparent_Small.webp" alt="TALOS" align="right" width="110">
+
+Battle management capabilities integrated with our data and messaging backbone.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1778647789338-TALOS.PNG" alt="TALOS BMS" width="640">
+</p>
+
+- Product pages: https://astutesys.com/talos
+- Documentation: https://astutesys.com/docs/ldm/bms/
+
+### HERMES VOIP/Agent Tool
+
+<img src="https://astutesys.com/media/1778062805323-HERMES_Circle_Transparent_Small.webp" alt="HERMES" align="right" width="110">
+
+Voice and agent-focused communications tooling for operational environments.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1777936246990-Screenshot_from_2026-05-03_09-58-36.png" alt="HERMES screenshot" width="640">
+</p>
+
+- Product pages: https://astutesys.com/hermes
+- Documentation: https://astutesys.com/docs/ldm/communications/
+
+## Tooling
+The following tools support integration, diagnostics, simulation, and operational workflows across AstuteDDS and LDM-based systems.
+
+### Bohemian
+
+System engineering and integration tooling for model-driven workflows and platform bring-up.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1779431225478-Bohemian.png" alt="Bohemian" width="560">
+</p>
+
+- Product page: https://astutesys.com/bohemian
+- Documentation: https://astutesys.com/docs/ldm/products/bohemian/
+
+### AstuteDDS Inspect
+
+Inspection and analysis tooling for AstuteDDS traffic, entities, and runtime behavior.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1779013122229-Screenshot_From_2026-05-17_11-21-29.png" alt="AstuteDDS Inspect" width="640">
+</p>
+
+- Product page: https://astutesys.com/astutedds-inspect
+- Documentation: https://astutesys.com/docs/astutedds/astute-inspect/overview/
+
+### LdmX
+
+Core LDM reference interfaces and tooling components used across applications and services.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1779431073738-LDMX.png" alt="LdmX" width="560">
+</p>
+
+- Product page: https://astutesys.com/ldmx
+- Documentation: https://astutesys.com/docs/ldm/reference/ldmx/
+
+### ToolX
+
+Developer diagnostics and operational support tooling for LDM-enabled systems.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1779431435402-ToolX_SAP_Trace.png" alt="ToolX SAP Trace" width="640">
+</p>
+
+- Product page: https://astutesys.com/toolx
+- Documentation: https://astutesys.com/docs/ldm/reference/toolx/
+
+### MediaX
+
+DEF STAN 00-82 media and video library for real-time mission and platform workflows.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1772106006409-SA_QuadWithStripFullscreen.png" alt="MediaX SA Quad" width="640">
+</p>
+
+- Product page: https://astutesys.com/mediax
+- Documentation: https://astutesys.com/docs/ldm/reference/mediax/
+
+### Vehicle Simulator
+
+Simulation tooling for testing, integration, and validation of LDM-driven systems.
+
+<p align="center">
+  <img src="https://astutesys.com/media/1769840137338-vehicle-sim-third-person.png" alt="Vehicle Simulator" width="640">
+</p>
+
+- Product page: https://astutesys.com/vehicle-sim
+- Documentation: https://astutesys.com/docs/ldm/products/vehicle-simulator/
 
 
+## Public Repositories
 
-## [ToolX](https://github.com/Astute-Systems/ToolX) :lock:
+### [Examples](https://github.com/Astute-Systems/Examples)
 
-![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
-![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
-![Version](https://Astute-Systems.github.io/ToolX/version.svg)
+Reference examples and integration snippets for selected Astute Systems technologies.
 
-![ToolX](https://astute-systems.github.io/ToolX/ToolX_Dark.png)
+## Documentation Hub
 
-Is Astute-Systems diagnostics and debug tool (build in MediaX) for Generic Vehicle Architecture (GVA) and Generic Soldier Architecture (GSA) systems. Libraries conform to DEF-STAN 00-082 for real time video streaming.
+- Company site: https://astutesys.com/
+- Documentation index: https://astutesys.com/docs/
+- LDM docs: https://astutesys.com/docs/ldm/
+- AstuteDDS docs: https://astutesys.com/docs/astutedds/
 
-ToolX is a GUI tool for developer to use whiles developing their MediaX enabled applications.
+## Contact
 
-Documentation is available to view on [Github Pages](https://astute-systems.github.io/ToolX)
-
-
-## [VivoeX](https://github.com/Astute-Systems/VivoeX) :lock:
-
-![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
-![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
-![CentOS 8 x64](https://img.shields.io/badge/CentOS%208%20x64-supported-yellow)
-![Msys2 x64](https://img.shields.io/badge/MSYS2%20Windows%20x64-supported-yellow)
-![Raspbarian 12](https://img.shields.io/badge/Raspbian%2012%20Arm64-supported-yellow)
-![Version](https://Astute-Systems.github.io/VivoeX/version.svg)
-
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=security_rating&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=sqale_rating&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=reliability_rating&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=vulnerabilities&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=code_smells&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Astute-Systems_VivoeX&metric=coverage&token=dd627a43e7e8bd89edfc7709dad0120224bbf6d2)](https://sonarcloud.io/summary/new_code?id=Astute-Systems_VivoeX)
-
-![Version](images/vivoex.png)
-
-The project includes an reference implementation of the GVA (Generic Vehicle Architecture) Human Machine Interface (HMI) to DEF STAN 23-009. This is meant as a designed for testing different live video sources and working with streaming protocols and does not implement functionality defined in the GVA Land Data Model (LDM). Its primarily used to demonstrate various video streaming pipelines and control mechanisms for real time video processing and situational awareness.
-
-Documentation is available to view on [Github Pages](https://astute-systems.github.io/VivoeX)
-
-![GVA HMI](https://astute-systems.github.io/VivoeX/ScreenshotSaFront.png)
-
-
-## [CotX ATAK](https://github.com/Astute-Systems/CotX) :lock:
-
-![Linux](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
-![Windows](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
-
-![Version](images/tak.png)
-
-Our TAK library stands out with its robust and modular architecture, allowing you to extend its capabilities effortlessly. Whether you’re looking to integrate custom data processors or add new data sources, our library provides the tools you need to expand and tailor it to your specific requirements.
-
-Seamless Data Ingestion from Multiple Sources Experience seamless data ingestion like never before. Our TAK library supports a wide array of data sources, ensuring you have the most comprehensive situational awareness:
-- AIS (Automatic Identification System): Track maritime vessels with precision.
-- ADS-B (Automatic Dependent Surveillance-Broadcast): Monitor aircraft movements in real-time.
-- OpenDrone ID: Keep an eye on drone activities and enhance your airspace management.
-- NMEA (National Marine Electronics Association): Integrate marine navigation and sensor data.
-- Radar Tracks from Cambridge Pixel: Harness the power of high-fidelity radar data for superior tracking and situational awareness.
-- Various Online Sources: Leverage the wealth of open source intelligence data available online to enrich your applications.
-
-Documentation is available to view on [Github Pages](https://astute-systems.github.io/CotX/cotd)
-
-
-## [LdmX](https://github.com/Astute-Systems/LdmX) :lock:
-
-![Ubuntu 22.04 x64](https://img.shields.io/badge/Ubuntu%2022.04%20x64-supported-yellow)
-![Ubuntu 24.04 x64](https://img.shields.io/badge/Ubuntu%2024.04%20x64-supported-yellow)
-
-This is an implementation of the GVA Land Data Model and is only available on a commercial basis. Please reach out for more details.
-
-## [bit](https://github.com/Astute-Systems/bit) :lock:
-![Version](images/bit.png)
-
-Documentation is available to view on [Github Pages](https://astute-systems.github.io/bit)
-
-
-## [SystemX](https://github.com/Astute-Systems/SystemX) :lock:
-
-The embedded OS for deployment. Signed and trusted SystemsX includes everything you need for a minimal secure, trusted operating system on which to deploy your application. Includes communications fabrics to enable massive scalable architectures and seemless interoperation with military systems for land, sea and air. Fully tested on the NVIDIA Jetson Orin AGX see [GXA-1](https://astutesys.com/gxa-1/).
+For product access, commercial licensing, or integration support, use the contact routes on https://astutesys.com/.
